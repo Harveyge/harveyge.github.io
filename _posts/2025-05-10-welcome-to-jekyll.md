@@ -1,7 +1,20 @@
 ---
-title: "Welcome to Jekyll"
+title: "Welcome to My website"
 layout: post
 ---
+
+My name is starwarmoney, I am a high school student in shs, in sharon ma.  I enjoyed academics.  at school i play frisbee.  I played hockey , fencing, and chess before.  
+
+bala bala 
+
+
+
+
+
+
+
+
+
 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
