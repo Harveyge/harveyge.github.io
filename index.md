@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Welcome"
-permalink: /home/
+title: ""
+
 ---
 
 ## Hi, I’m Haifeng Ge  
