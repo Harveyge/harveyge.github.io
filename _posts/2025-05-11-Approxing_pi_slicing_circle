@@ -1,14 +1,17 @@
 ---
+title: "Welcome to My website"
 layout: post
+---
+---
 title: "Liu Hui’s 割圆术: Approximating π by Slicing the Circle"
-date:   2025-05-01
+layout: post
 categories: blog
 ---
 
 In the 3rd century, Chinese mathematician **Liu Hui** approximated π by inscribing regular polygons in a circle and letting the number of sides double. Let’s recreate his method in Python!
 
-
-
+![Cute Cat](./_posts/Liuhui_pi1.png)
+![Cute Cat](./_posts/LiuHui_pi2.png)
 
 ---
 
