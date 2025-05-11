@@ -16,8 +16,7 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html"，title="bala"}
-  - {file: "README.md"，title="bala2"}
+  - {file: "HaifengGeCV.pdf"，title="CV", icon:home}  
   - {file: "README.md"，title="bala3"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
