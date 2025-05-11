@@ -6,7 +6,7 @@ categories: blog
 
 In the 3rd century, Chinese mathematician **Liu Hui** approximated π by inscribing regular polygons in a circle and letting the number of sides double. Let’s recreate his method in Python!
 
-![Liu Hui polygon approximation – step 1](/assets/images/LiuHui_pi1.png)
+![Liu Hui polygon approximation – step 1](/assets/images/Liuhui_pi1.png)
 ![Liu Hui polygon approximation – step 2](/assets/images/LiuHui_pi2.png)
 
 bala bala 
