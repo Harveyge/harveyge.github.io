@@ -1,5 +1,5 @@
-title: "Blog Title"
-author: "Blog Author"
+title: "Haifeng Ge"
+author: "Rising 11th grader, USAJMO qualifier - math contest & research"
 description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
 permalink: /:title/
 lang: "en"
@@ -16,13 +16,15 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html"}
-  - {file: "README.md"}
+  - {file: "index.html", title: "home", icon: home}
+  - {file: "README.md",  title: "about", icon: address-card}
+  - {file: "README.md",  title: "projects", icon: address-card}
+  - {file: "HaifengGeCV.pdf",  title: "CV", icon: address-card}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
   - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
+  - {title: "Instagram",  icon: instagram,  url: "https://www.instagram.com/poshenloh/" }
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
