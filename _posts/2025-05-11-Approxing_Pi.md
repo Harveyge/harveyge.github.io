@@ -9,6 +9,8 @@ In the 3rd century, Chinese mathematician **Liu Hui** approximated π by inscrib
 ![Liu Hui polygon approximation – step 1](/assets/images/LiuHui_pi1.png)
 ![Liu Hui polygon approximation – step 2](/assets/images/LiuHui_pi2.png)
 
+bala bala 
+
 ![Cute Cat](./Liuhui_pi1.png)
 ![Cute Cat](/LiuHui_pi2.png)
 
