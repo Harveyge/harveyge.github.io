@@ -1,6 +1,7 @@
 title: "Haifeng Ge"
 author: "Rising 11th grader, USAJMO qualifier - math contest & research"
 description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
+url: "https://harveyge.github.io"    # your production URL
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -16,10 +17,11 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html", title: "home"}
+  - {file: "index.md", title: "home"}
+  - {file: "about.md", title: "about"}
   - {file: "blog.md",  title: "blog"}
-  - {file: "README.md",  title: "projects"}
-  - {file: "HaifengGeCV.pdf",  title: "CV"}
+  - {file: "projects.md",  title: "projects"}
+  - {url: "/HaifengGeCV.pdf",  title: "CV"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
