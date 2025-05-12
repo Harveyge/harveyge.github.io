@@ -11,10 +11,11 @@ Let’s recreate his method in Python!
 ![Liu Hui polygon approximation – step 1](/assets/images/Liuhui_pi1.png)
 ![Liu Hui polygon approximation – step 2](/assets/images/LiuHui_pi2.png)
 
-Play it, by changing the "n" variables.  [google colab](https://colab.research.google.com/drive/1Y7UxuLUH5x6t0dam55hmH56Ai_K78Lxy?usp=sharing)
+Play it, by changing the "n" variables in the code below, or directly open my [google colab](https://colab.research.google.com/drive/1Y7UxuLUH5x6t0dam55hmH56Ai_K78Lxy?usp=sharing) page.
 
 
----
+## Python Code
+
 ```python
 # Demo of Liu Hui’s Inscribed Polygon π-Approximation
 # Description: use 6,12,24... polygons to inscribe circle, for pi caluation
@@ -53,4 +54,4 @@ plt.title("Liu Hui’s Inscribed Polygon π-Approximation")
 plt.legend()
 plt.grid(True, ls='--', alpha=0.5)
 plt.show()
-
+```
