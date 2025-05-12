@@ -18,7 +18,7 @@ Collatz spiral is a mordern visulization based on Collatz conjecture.
 Let’s play the spiral in Python!
 
 
-Play it, by changing the "start" variables in the code below, or directly open my [google colab](https://colab.research.google.com/drive/1Y7UxuLUH5x6t0dam55hmH56Ai_K78Lxy#scrollTo=297Z_BgGSIRJ) page.
+Play it, by changing the "start" variables in the code below, or directly open my [google colab](https://colab.research.google.com/drive/13WyXPjfWPCNFrZ5iqiIkvVJ__Hy3Q3w1?usp=sharing) page.
 
 
 ## Python Code
