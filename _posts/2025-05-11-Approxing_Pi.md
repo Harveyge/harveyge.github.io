@@ -13,10 +13,10 @@ Let’s recreate his method in Python!
 
 Play it, by changing the "n" variables in the code below, or directly open my [google colab](https://colab.research.google.com/drive/1Y7UxuLUH5x6t0dam55hmH56Ai_K78Lxy?usp=sharing) page.
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+<div style="position:relative; padding-bottom:56.25%; height:0; overflow:hidden;">
   <iframe
-    src="https://colab.research.google.com/drive/13WyXPjfWPCNFrZ5iqiIkvVJ__Hy3Q3w1#scrollTo=iQrknX6RLwMr"
-    style="position: absolute; top:0; left: 0; width: 100%; height: 100%;"
+    src="https://colab.research.google.com/drive/1Y7UxuLUH5x6t0dam55hmH56Ai_K78Lxy?usp=sharing&embed=true"
+    style="position:absolute; top:0; left:0; width:100%; height:100%;"
     frameborder="0"
     allowfullscreen>
   </iframe>
@@ -26,7 +26,7 @@ leave your comments
 
 <section id="comments">
   <script src="https://utteranc.es/client.js"
-          repo="your-username/your-username.github.io"
+          repo="harveyge/harveyge.github.io"
           issue-term="pathname"
           theme="github-light"
           crossorigin="anonymous"
