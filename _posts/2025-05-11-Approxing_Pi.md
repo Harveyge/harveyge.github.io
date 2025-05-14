@@ -11,7 +11,21 @@ Let’s recreate his method in Python!
 ![Liu Hui polygon approximation – step 1](/assets/images/Liuhui_pi1.png)
 ![Liu Hui polygon approximation – step 2](/assets/images/LiuHui_pi2.png)
 
-Play it, by changing the "n" variables in the code below, or directly open my [google colab](https://colab.research.google.com/drive/1Y7UxuLUH5x6t0dam55hmH56Ai_K78Lxy?usp=sharing) page.
+Play with the code, by changing the "n" variables in the code below, 
+either at my [google colab](https://colab.research.google.com/drive/1Y7UxuLUH5x6t0dam55hmH56Ai_K78Lxy?usp=sharing) page.
+or interact live in Colab below 
+
+{% raw %}
+<div style="position:relative; padding-bottom:56.25%; height:0; overflow:hidden;">
+  <iframe
+    src="https://colab.research.google.com/drive/1Y7UxuLUH5x6t0dam55hmH56Ai_K78Lxy?usp=sharing&output=embed"
+    style="position:absolute; top:0; left:0; width:100%; height:100%;"
+    frameborder="0"
+    allowfullscreen>
+  </iframe>
+</div>
+{% endraw %}
+
 
 <div style="position:relative; padding-bottom:56.25%; height:0; overflow:hidden;">
   <iframe
@@ -22,7 +36,9 @@ Play it, by changing the "n" variables in the code below, or directly open my [g
   </iframe>
 </div>
 
-leave your comments
+
+Leave your comments below!
+
 
 <section id="comments">
   <script src="https://utteranc.es/client.js"
