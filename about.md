@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-#Hi, this is Haifeng Ge
+##Hi, this is Haifeng Ge
 
 I’m a rising 11th-grader at Sharon High School and a **USAJMO Qualifier (2025)**.  I thrive at the intersection of elegant proofs and hands-on computation, and I’m eager to contribute **8–10 hours/week** this summer to a research project in number theory, combinatorics, or computational mathematics.
 
