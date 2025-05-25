@@ -4,14 +4,14 @@ title: Projects & Research
 permalink: /projects/
 ---
 
-### Mini-research project   
-- **Description:** Wrote a Python Jupyter notebook exploring distribution of prime gaps up to 10⁶.  
-- **Repo:** [github.com/your-username/prime-gaps](https://github.com/your-username/prime-gaps)  
+### Math & Python Blogs   
+- **Description:** Blog fun math concept, and use Python code to visulize for better understanding.  Check the "Blogs" above.   
 
-### Prime-Gap Experiments  
-- **Description:** Wrote a Python Jupyter notebook exploring distribution of prime gaps up to 10⁶.  
-- **Repo:** [github.com/your-username/prime-gaps](https://github.com/your-username/prime-gaps)  
+### Other activities  
+- MIT Beaver Works Summer Institute Spring 2025 Outreach Program - "Yes! You Can Learn Practical Radio"     (Spring 2025)
+- Harvard T.H. Chan School of Public Health- Translational Data Science Center for a Learning Health System "Machine Learning for Self-Driving Cars" (Summer 2023)
 
-### Quadratic Reciprocity Exposition  
-- **Description:** LaTeX write-up explaining proof via Gauss sums.  
-- **PDF:** [downloads/quadratic-reciprocity.pdf](/downloads/quadratic-reciprocity.pdf)  
+![BWSI Radio.jpeg](/assets/images/BWSI Radio.jpeg)
+![Self driving cars.jpeg](/assets/images/Self driving cars.png)  
+[Source](https://dbmi.hms.harvard.edu/news/data-science-action-self-driving-cars)
+
