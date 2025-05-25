@@ -30,7 +30,7 @@ This summer, I’m eager to contribute 8–10 hours/week to a research group—w
   - Calculus 1A (Differentiation): 100 % on certificate (Dec., 2024)  
   - Currently enrolled in Calculus 1B (Integration) : 100 % on certificate (Apr., 2025)  
 
-### 🔬 Mini-Research Projects***
+### 🔬 Math and Python Blogs ***
 
 1. **Prime-Gap Distribution**  
    Used Python & Sympy to examine gaps between consecutive primes up to 10⁶ and formulate a conjecture on average growth.  
