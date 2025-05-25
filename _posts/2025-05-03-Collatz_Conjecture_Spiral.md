@@ -29,47 +29,49 @@ The “Collatz spiral” is plotted by taking each term of a Collatz sequence an
 
 Define the Collatz map \(C(n)\) by
 
-\[
-C(n) = 
+$$
+C(n) =
 \begin{cases}
-\displaystyle \frac{n}{2}, & n\text{ even},\\[8pt]
-3n + 1, & n\text{ odd}.
+\displaystyle \frac{n}{2}, & \text{if $n$ is even},\\[6pt]
+3n + 1, & \text{if $n$ is odd}.
 \end{cases}
-\]
+$$
 
 Starting from a seed integer \(s_0\), generate the sequence
-\[
+
+$$
 s_{k+1} = C(s_k), \quad k = 0,1,2,\dots
-\]
+$$
 
 ### 2. Polar Embedding
 
 For each term \(s_k\), set
-\[
+$$
 r_k = s_k,
-\quad
+\qquad
 \theta_k = \ln(s_k).
-\]
+$$
+
 You may optionally multiply \(\ln(s_k)\) by a constant factor to tighten or loosen the spiral.
 
 ### 3. Cartesian Coordinates
 
-Convert \((r_k,\theta_k)\) into \((x_k,y_k)\) by
-\[
+Convert \((r_k,\theta_k)\) into \((x_k,y_k)\) via
+
+$$
 \begin{aligned}
 x_k &= r_k \cos(\theta_k) = s_k \cos\bigl(\ln s_k\bigr),\\
 y_k &= r_k \sin(\theta_k) = s_k \sin\bigl(\ln s_k\bigr).
 \end{aligned}
-\]
+$$
 
-Putting it all together, the plot of the first $N$ terms of the Collatz spiral is the sequence of points: 
+Putting it all together, the plot of the first \(N\) terms is
 
-\[
-\bigl(x_k,y_k\bigr)
-=
-\bigl(s_k\cos(\ln s_k),\;s_k\sin(\ln s_k)\bigr),
-\quad k=0,\dots,N.
-\]
+$$
+(x_k,y_k) = \bigl(s_k\cos(\ln s_k),\;s_k\sin(\ln s_k)\bigr),
+\quad
+k=0,\dots,N.
+$$
 
 Where \(s_0\) is your chosen starting integer and \(s_{k+1} = C(s_k)\).
 
