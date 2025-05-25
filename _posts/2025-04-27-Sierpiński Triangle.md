@@ -50,6 +50,13 @@ Play it in my [google colab](https://colab.research.google.com/drive/1nmMQXP5_Pl
 
 Another way to create the Sierpinski's triangle is to start with a non-filled equilateral triangle. Then, draw a filled equilateral triangle where each vertex is located at the midpoint of the non-filled triangle. Create filled triangles in this fashion by using the midpoints of the non-filled equilateral triangles. This process will create Sierpinski's triangle.
 
+<p align="center">
+  <img
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Animated_construction_of_Sierpinski_Triangle.gif/800px-Animated_construction_of_Sierpinski_Triangle.gif"
+    style="max-width:100%; height:auto;"
+  />
+</p>
+
 The self-similarity of the triangle is also intruiging: 
 
 <p align="center">
