@@ -18,22 +18,15 @@ An interesting video show the how to make it manually:
 [![ Demonstrates The Sierpinski Triangle in Mathematical Visual](https://img.youtube.com/vi/Fgu5-3ihVVI/0.jpg)](https://www.youtube.com/watch?v=Fgu5-3ihVVI)
 
 
-<div class="full-bleed">
-  <div class="video-container">
-    <iframe
-      src="https://www.youtube.com/embed/Fgu5-3ihVVI"
-      frameborder="0"
-      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-      allowfullscreen>
-    </iframe>
-  </div>
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;width:100%;max-width:1200px;margin:1em auto;">
+  <iframe 
+    style="position:absolute;top:0;left:0;width:100%;height:100%;" 
+    src="https://www.youtube.com/embed/Fgu5-3ihVVI" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allowfullscreen>
+  </iframe>
 </div>
-
-/* extends this section edge-to-edge in the viewport */
-.full-bleed {
-  width: 100vw;
-  margin-left: calc(50% - 50vw);
-}
 
 
 In 1915, Polish mathematician **Sierpiński** [Wikipeida](https://en.wikipedia.org/wiki/Sierpi%C5%84ski_triangle) gave this shape its official math name, building on ideas from Georg Cantor’s work on “strange” sets that are everywhere yet take up zero space.
