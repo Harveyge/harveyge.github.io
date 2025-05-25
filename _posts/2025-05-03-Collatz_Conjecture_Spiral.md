@@ -19,18 +19,69 @@ A "Collatz map" shows the correlation of any integer and it eventually envolved 
 
 ![Collatz map](/assets/images/collatz map.png)
 
+## Why spiral? 
 
-Collatz spiral is a mordern visulization based on Collatz conjecture. 
+Goes from Collatz map, and plot **each integer** around a growing spiral, then **draw an arrow** from each $n$ to its next Collatz iterate, you get a breathtaking web of curves that really **spiral** around the center. With Python code, one can visulization based on Collatz conjecture. 
+
+The “Collatz spiral” is plotted by taking each term of a Collatz sequence and embedding it in polar (and then Cartesian) coordinates.
+
+### 1. Collatz Map
+
+Define the Collatz map \(C(n)\) by
+
+\[
+C(n) = 
+\begin{cases}
+\displaystyle \frac{n}{2}, & n\text{ even},\\[8pt]
+3n + 1, & n\text{ odd}.
+\end{cases}
+\]
+
+Starting from a seed integer \(s_0\), generate the sequence
+\[
+s_{k+1} = C(s_k), \quad k = 0,1,2,\dots
+\]
+
+### 2. Polar Embedding
+
+For each term \(s_k\), set
+\[
+r_k = s_k,
+\quad
+\theta_k = \ln(s_k).
+\]
+You may optionally multiply \(\ln(s_k)\) by a constant factor to tighten or loosen the spiral.
+
+### 3. Cartesian Coordinates
+
+Convert \((r_k,\theta_k)\) into \((x_k,y_k)\) by
+\[
+\begin{aligned}
+x_k &= r_k \cos(\theta_k) = s_k \cos\bigl(\ln s_k\bigr),\\
+y_k &= r_k \sin(\theta_k) = s_k \sin\bigl(\ln s_k\bigr).
+\end{aligned}
+\]
+
+Putting it all together, the plot of the first $N$ terms of the Collatz spiral is the sequence of points: 
+
+\[
+\bigl(x_k,y_k\bigr)
+=
+\bigl(s_k\cos(\ln s_k),\;s_k\sin(\ln s_k)\bigr),
+\quad k=0,\dots,N.
+\]
+
+Where \(s_0\) is your chosen starting integer and \(s_{k+1} = C(s_k)\).
+
+
+Let’s play the spiral in Python!
+
+Play it, by changing the "start" variables in the code below, or directly open my [google colab](https://colab.research.google.com/drive/13WyXPjfWPCNFrZ5iqiIkvVJ__Hy3Q3w1?usp=sharing) page.
 
 ![collatz_conjecture16](/assets/images/collatz_conjecture16.png)
 ![collatz_conjecture19](/assets/images/collatz_conjecture19.png)
 ![collatz_conjecture27](/assets/images/collatz_conjecture27.png)
 
-
-Let’s play the spiral in Python!
-
-
-Play it, by changing the "start" variables in the code below, or directly open my [google colab](https://colab.research.google.com/drive/13WyXPjfWPCNFrZ5iqiIkvVJ__Hy3Q3w1?usp=sharing) page.
 
 
 ## Python Code
