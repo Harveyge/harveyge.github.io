@@ -4,8 +4,9 @@ layout: post
 categories: blog
 ---
 
-Long before computers, artists in 16th-century lace-makers and stone-carvers loved repeating triangular holes in patterns.
-Sierpinski triangle pattern in 11-13th'centries:[source](https://www.formulas.it/formulog/wp-content/uploads/2014/12/sierpinski-aplimat.pdf)
+Before the in-depth study of fractal geometry, artists in 16th-century such as lace-makers and stone-carvers created repeating self-similar patterns and created artwork with it. A notable example is the Sierpinski's Triangle:
+
+[source](https://www.formulas.it/formulog/wp-content/uploads/2014/12/sierpinski-aplimat.pdf)
 
 ![Sierpinski triangle pattern in 11th centry](/assets/images/Sierpinski Triangle in stone 0.png)
 ![Sierpinski triangle pattern in 13th centry](/assets/images/Sierpinski Triangle in stone 1.png)
@@ -14,8 +15,6 @@ It is even more exciting that some seashell have similar pattern.
 
 ![Sierpinski triangle pattern in seashell](/assets/images/Sierpinski triangle pattern in seashell.jpg)
 
-An interesting video show the how to make it manually:
-[![ Demonstrates The Sierpinski Triangle in Mathematical Visual](https://img.youtube.com/vi/Fgu5-3ihVVI/0.jpg)](https://www.youtube.com/watch?v=Fgu5-3ihVVI)
 
 
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;width:100%;max-width:1200px;margin:1em auto;">
