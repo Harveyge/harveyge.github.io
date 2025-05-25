@@ -14,6 +14,20 @@ It is even more exciting that some seashell have similar pattern.
 
 ![Sierpinski triangle pattern in seashell](/assets/images/Sierpinski triangle pattern in seashell.jpg)
 
+An interesting video show the how to make it manually:
+[![ Demonstrates The Sierpinski Triangle in Mathematical Visual](https://img.youtube.com/vi/Fgu5-3ihVVI/0.jpg)](https://www.youtube.com/watch?v=Fgu5-3ihVVI)
+
+
+<div class="video-container">
+  <iframe
+    src="https://www.youtube.com/embed/Fgu5-3ihVVI"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen>
+  </iframe>
+</div>
+
+
 In 1915, Polish mathematician **Sierpiński** [Wikipeida](https://en.wikipedia.org/wiki/Sierpi%C5%84ski_triangle) gave this shape its official math name, building on ideas from Georg Cantor’s work on “strange” sets that are everywhere yet take up zero space.
 Nowadays folks discovered a playful way to “draw” it by randomly hopping halfway to triangle corners—no erasing needed! Dot. Dot. Dot. Suddenly, there it is.
 
