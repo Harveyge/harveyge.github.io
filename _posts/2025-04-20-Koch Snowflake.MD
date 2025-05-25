@@ -4,6 +4,9 @@ layout: post
 categories: blog
 ---
 
+![Koch Snowflake](/assets/images/Von_Koch_curve.gif)
+[Source: Wikipedia](https://en.wikipedia.org/wiki/Koch_snowflake)
+
 Imagine you start with a perfectly ordinary equilateral triangle
 
 1. **The Little Triangle Trick**  
@@ -18,9 +21,6 @@ Imagine you start with a perfectly ordinary equilateral triangle
    - **Endless Coastline Vibes:** The boundary keeps getting longer, like a coastline that never stops.  
    - **Finite Snowball:** Even though its edge stretches off toward infinity, the area inside tops out at a nice, finite size. 
 
-
-![Koch Snowflake](/assets/images/Von_Koch_curve.gif)
-[Source: Wikipedia](https://en.wikipedia.org/wiki/Koch_snowflake)
 
 - **Fractal Antennas**  
 In real world, I leared Koch Snowflake is useful for Antennas design.  Those jagged edges pack loads of “wire” into a small footprint—perfect for some application like phones, Wi-Fi routers, and satellites.
