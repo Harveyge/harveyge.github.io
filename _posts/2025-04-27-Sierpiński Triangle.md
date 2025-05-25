@@ -34,3 +34,52 @@ Play it in my [google colab](https://colab.research.google.com/drive/1nmMQXP5_Pl
 
 - simulate Sierpinski Triangle n=10000
 ![simulate Sierpinski Triangle n=10000](/assets/images/Sierpinski Triangle when n=10000.png)
+
+
+Leave your comments below!
+
+
+<section id="comments">
+  <script src="https://utteranc.es/client.js"
+          repo="harveyge/harveyge.github.io"
+          issue-term="pathname"
+          theme="github-light"
+          crossorigin="anonymous"
+          async>
+  </script>
+</section>
+
+
+## Python Code
+```python
+# Demo of piraling Through the Collatz Conjecture
+# Description: Plot each term of a Collatz sequence in polar coordinates, and show the result
+# of a swirling spiral
+# Author: Daniel Ge
+# Date:   2025-04-26
+
+import random
+import matplotlib.pyplot as plt
+
+def sierpinski_triangle(n):
+
+  A = (0,0); B = (1,0); C = (0.5, 0.866)
+  x, y = 0.3, 0.4  # starting point
+  points = []
+    
+  for _ in range(n):
+      vertex = random.choice([A, B, C])
+      x = (x + vertex[0]) / 2
+      y = (y + vertex[1]) / 2
+      points.append((x,y))
+
+  xs, ys = zip(*points)
+  plt.scatter(xs, ys, s=0.1)
+  plt.axis('off')
+  plt.show()
+
+n = 100
+#n = 1000
+#n = 10000
+sierpinski_triangle(n)
+```
