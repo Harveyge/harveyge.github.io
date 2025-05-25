@@ -58,9 +58,11 @@ I’m a rising 11th-grader at Sharon High School and a **USAJMO Qualifier (2025)
   - **Languages:** Python (Pandas,Numpy, Sympy, SageMath), LaTeX, Git/GitHub  
   - **Techniques:** Modular arithmetic, combinatorial constructions, analytic estimates
 
+### 💼 Other Activities
+- **Chess Teacher** — Taught Chess at Sharon Chinese Language School and locals for four years (Aug 2022 – Present)  
+- **The President's Volunteer Service Award Winner** — (Dec 2024)
 
 I’m excited to jump into coding simulations, verifying small-case proofs, or surveying literature under your mentorship.
-
 
 ### 🤝 Availability & Contact
 
