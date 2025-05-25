@@ -6,10 +6,7 @@ permalink: /about/
 
 ##Hi, this is Haifeng Ge
 
-I’m a rising 11th-grader at Sharon High School and a **USAJMO Qualifier (2025)**.  I thrive at the intersection of elegant proofs and hands-on computation, and I’m eager to contribute **8–10 hours/week** this summer to a research project in number theory, combinatorics, or computational mathematics.
-
-
-This summer, I’m eager to contribute 8–10 hours/week to a research group—whether writing code, running experiments, or drafting proofs
+I’m a rising 11th-grader at Sharon High School and a **USAJMO Qualifier (2025)**.  I enjoys the intersection of elegant proofs and hands-on computation, and I’m eager to contribute **8–10 hours/week** this summer to a math research project, for example number theory, combinatorics, or computational mathematics.
 
 
 ### 🏆 Awards & Achievements
@@ -30,16 +27,23 @@ This summer, I’m eager to contribute 8–10 hours/week to a research group—w
   - Calculus 1A (Differentiation): 100 % on certificate (Dec., 2024)  
   - Currently enrolled in Calculus 1B (Integration) : 100 % on certificate (Apr., 2025)  
 
-### 🔬 Math and Python Blogs ***
+### 🔬 Math & Python Blogs ***
 
-1. **Prime-Gap Distribution**  
-   Used Python & Sympy to examine gaps between consecutive primes up to 10⁶ and formulate a conjecture on average growth.  
-2. **Quadratic Reciprocity Exposition**  
-   Typeset a self-contained proof via Gauss sums; hosted on GitHub with full LaTeX source.  
-3. **Ulam Spiral Visualization**  
-   Plotted prime positions in a spiral grid to reveal surprising linear patterns.  
+1. **Koch Snowflake**  
+   Used Python & Turtle to draw Koch Snowflake at different orders.  
+2. **Sierpiński Triangle**  
+   Illustrate concept Sierpiński Triangle and application, with python code for generating it.
+3. **Visualize the Collatz Sequence and Collatz Spiral**  
+   Use Python to plot Collatz Spiral at any given starting number.
+4. **Approximating π by Slicing the Circle**
+   Illustrate an acient Mathmatician's idea of how to calcualte Pi, using slicing circle approach, and visulize it in Python
 
-*(See [Projects & Experiments](/projects/) for live notebooks, code, and thumbnails.)*
+
+### 🚀 Research Interests
+
+- **Analytic Number Theory** (prime gaps, L-functions)  
+- **Algebraic Combinatorics** (generating functions, graph designs)  
+- **Computational Conjecture Testing** (data-driven exploration with Python/Sage)  
 
 
 ### 💼 Experience and Technical Background
@@ -54,16 +58,8 @@ This summer, I’m eager to contribute 8–10 hours/week to a research group—w
   - **Languages:** Python (Pandas,Numpy, Sympy, SageMath), LaTeX, Git/GitHub  
   - **Techniques:** Modular arithmetic, combinatorial constructions, analytic estimates
 
-*(See [Projects](/projects/) for my computational notebooks and write-ups.)*
-
-### 🚀 Research Interests
-
-- **Analytic Number Theory** (prime gaps, L-functions)  
-- **Algebraic Combinatorics** (generating functions, graph designs)  
-- **Computational Conjecture Testing** (data-driven exploration with Python/Sage)  
 
 I’m excited to jump into coding simulations, verifying small-case proofs, or surveying literature under your mentorship.
-
 
 
 ### 🤝 Availability & Contact
