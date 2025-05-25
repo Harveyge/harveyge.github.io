@@ -16,15 +16,20 @@ Imagine you start with a perfectly ordinary equilateral triangle
 
 3. **Why It’s So Cool**  
    - **Endless Coastline Vibes:** The boundary keeps getting longer, like a coastline that never stops.  
-   - **Finite Snowball:** Even though its edge stretches off toward infinity, the area inside tops out at a nice, finite size. Magic!
+   - **Finite Snowball:** Even though its edge stretches off toward infinity, the area inside tops out at a nice, finite size. 
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Von_Koch_curve.gif"
-     alt="Koch curve" width="400">
+
+![Koch Snowflake](/assets/images/Von_Koch_curve.gif)
 [Source: Wikipedia](https://en.wikipedia.org/wiki/Koch_snowflake)
 
+- **Fractal Antennas**  
+In real world, I leared Koch Snowflake is useful for Antennas design.  Those jagged edges pack loads of “wire” into a small footprint—perfect for compact, multi-band antennas in phones, Wi-Fi routers, and satellites.
 
 
+Swedish mathematician **Helge von Koch** published a short note to give a simple example of a curve that is continuous everywhere, but differentiable nowhere—challenging the then-prevailing intuition that most “nice” curves should have well-defined tangents at almost every point.
 
+Now let’s play the draw a Koch Snowflake at different orders , using Python below:  
+Notes: Because Google Colab cannot display Turtle window, need to use your local editor, for example Jupyter Notebook, to show the animation 
 
 
 
