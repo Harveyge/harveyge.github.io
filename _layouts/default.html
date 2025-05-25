@@ -27,11 +27,17 @@
   {% assign pages = site.pages | where_exp: "item", "item.title and item.sitemap != false" | sort: "order" %}
 {% endif %}
 
+  
 <header>
   <a href="{{ "/" | relative_url }}" class="title">{{ site.title | escape }}</a>
   {% include menu.html menu=pages %}
 </header>
+<!-- load MathJax so that $…$ and $$…$$ render -->
+<script type="text/javascript" async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+</script>
 
+  
 {{ content }}
 
 {% if site.external %}
