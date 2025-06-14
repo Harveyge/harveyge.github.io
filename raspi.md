@@ -27,6 +27,13 @@ Here’s an embedded YouTube video:
 </iframe>
 
 
+| Description                  | Video                                                                                                                          |
+|------------------------------|--------------------------------------------------------------------------------------------------------------------------------|
+| **Rick Astley – Never Gonna Give You Up**<br>A classic ’80s hit that never gets old. | <iframe width="320" height="180" src="https://www.youtube.com/embed/dQw4w9WgXcQ" title="Never Gonna Give You Up" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> |
+| **NASA’s “Welcome to Mars”**<br>An immersive journey to the Red Planet.        | <iframe width="320" height="180" src="https://www.youtube.com/embed/C0DPdy98e4c" title="Welcome to Mars" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> |
+
+
+
 ###  detection   
 
 ###  Team sport player identification 
