@@ -39,7 +39,16 @@ Here are some interesting models I have trained / implemented, which runs on a R
 </iframe>
 
 
-
+###  Team sports player detection on PC webcam using YOLO 11. [youtueb](https://youtube.com) [github](https://link.com). [Google Colab](link). [Article](link)
+![Team sports player detection](/assets/images/player detection.png)
+<!-- Approach 1: HTML iframe embed (works on GitHub Pages, many static-site generators) -->
+<iframe width="560" height="315"
+    src="https://www.youtube.com/embed/neBZ6huolkg"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen>
+</iframe>
 
 
 ###  General object detection and segment using YOLO11 on Rasperry pi5. [github](https://link.com). [Google Colab](link). [Article](link)
