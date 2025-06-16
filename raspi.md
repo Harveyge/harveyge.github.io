@@ -19,7 +19,7 @@ Here are some interesting models I have trained / implemented, which runs on a R
 ![Detect and segment using Yolo11](/assets/images/detection_n_seg.png)
 <!-- Approach 1: HTML iframe embed (works on GitHub Pages, many static-site generators) -->
 <iframe width="560" height="315"
-    src="https://www.youtube.com/embed/B8v285BJ8Yk"
+    src="https://www.youtube.com/embed/Yigy3_PxJZo"
     title="YouTube video player"
     frameborder="0"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
