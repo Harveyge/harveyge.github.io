@@ -28,7 +28,7 @@ Here are some interesting models I have trained / implemented, which runs on a R
 
 
 ###  Human pose detection on PC webcam using YOLO 11. [youtueb](https://youtube.com) [github](https://link.com). [Google Colab](link). [Article](link)
-![Human pose detection](/assets/images/pose.png)
+![Human pose detection](/assets/images/png-pose.png)
 <!-- Approach 1: HTML iframe embed (works on GitHub Pages, many static-site generators) -->
 <iframe width="560" height="315"
     src="https://www.youtube.com/embed/gTot400iD9s"
