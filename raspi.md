@@ -61,9 +61,3 @@ Here are some interesting models I have trained / implemented, which runs on a R
     allowfullscreen>
 </iframe>
 
-###  detection   
-
-###  Team sport player identification 
-
-###  Position
-
