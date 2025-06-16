@@ -50,10 +50,11 @@ Here are some interesting models I have trained / implemented, which runs on a R
 </iframe>
 
 
-###  General object detection and segment using YOLO11 on Rasperry pi5. [github](https://link.com). [Google Colab](link). [Article](link)
+###  General object detection and segment using YOLO11 on Rasperry pi5. 
+![Raspberry Pi detection](/assets/images/dection_on_raspi.jpg)
 <!-- Approach 1: HTML iframe embed (works on GitHub Pages, many static-site generators) -->
 <iframe width="560" height="315"
-    src="https://www.youtube.com/embed/dQw4w9WgXcQ"
+    src="https://www.youtube.com/embed/Q9iBBfrW9YQ"
     title="YouTube video player"
     frameborder="0"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
