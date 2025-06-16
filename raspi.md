@@ -31,7 +31,7 @@ Here are some interesting models I have trained / implemented, which runs on a R
 ![Human pose detection](/assets/images/pose.png)
 <!-- Approach 1: HTML iframe embed (works on GitHub Pages, many static-site generators) -->
 <iframe width="560" height="315"
-    src="https://www.youtube.com/embed/mWYhgkFkQYw"
+    src="https://www.youtube.com/embed/gTot400iD9s"
     title="YouTube video player"
     frameborder="0"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
