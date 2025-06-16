@@ -15,7 +15,7 @@ permalink: /raspi/
 
 Here are some interesting models I have trained / implemented, which runs on a Raspberry Pi 5 computer. 
 
-###  General object detection and segment on PC webcam using YOLO 11. [youtueb](https://youtube.com) [github](https://link.com). [Google Colab](link). [Article](link)
+###  General object detection and segment on PC webcam using YOLO 11. 
 ![Detect and segment using Yolo11](/assets/images/detection_n_seg.png)
 <!-- Approach 1: HTML iframe embed (works on GitHub Pages, many static-site generators) -->
 <iframe width="560" height="315"
@@ -27,7 +27,7 @@ Here are some interesting models I have trained / implemented, which runs on a R
 </iframe>
 
 
-###  Human pose detection on PC webcam using YOLO 11. [youtueb](https://youtube.com) [github](https://link.com). [Google Colab](link). [Article](link)
+###  Human pose detection on PC webcam using YOLO 11. 
 ![Human pose detection](/assets/images/png-pose.png)
 <!-- Approach 1: HTML iframe embed (works on GitHub Pages, many static-site generators) -->
 <iframe width="560" height="315"
@@ -39,8 +39,7 @@ Here are some interesting models I have trained / implemented, which runs on a R
 </iframe>
 
 
-###  Team sports player detection on PC webcam using YOLO 11. [youtueb](https://youtube.com) [github](https://link.com). [Google Colab](link). [Article](link)
-![Team sports player detection](/assets/images/player detection.png)
+###  Team sports player detection on PC webcam using YOLO 11. 
 <!-- Approach 1: HTML iframe embed (works on GitHub Pages, many static-site generators) -->
 <iframe width="560" height="315"
     src="https://www.youtube.com/embed/2_1vvKpzgwU"
